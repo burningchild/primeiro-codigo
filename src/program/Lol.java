@@ -34,7 +34,7 @@ public class Lol {
 				usuario1.consultaUsuario();
 			}
 			
-			usuario1.descobrirIdadeDoUsuario();
+			
 			acaoDigitada = usuario1.novoMenu();
 
 		} while (acaoDigitada != 1 && acaoDigitada != 2 && acaoDigitada != 3 && acaoDigitada != 4);
